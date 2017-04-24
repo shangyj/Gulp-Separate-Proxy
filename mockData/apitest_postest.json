@@ -1,0 +1,163 @@
+{
+    "dataTables": {
+        "triaccbook": {
+            "select": null,
+            "current": -1,
+            "pageSize": 20,
+            "pageIndex": 0,
+            "totalPages": 2,
+            "rows": [{
+                "data": {
+                    "glorgName": "稻香村-基准账簿",
+                    "glorgCode": "DXC-0001",
+                    "orgName": "稻香村",
+                    "orgCode": "DXC-0001",
+                    "acccode": "1001",
+                    "accname": "银行存款",
+                    "pk_accsubj": "asdf",
+                    "accOrientStr": "借",
+                    "accyear": "2015",
+                    "accperiod": "12",
+                    "explanation": "期初余额",
+                    "debitQuantity": 200.00,
+                    "creditQuantity": 200.00,
+                    "localDebitAmount": 200.00,
+                    "localCreditAmount": 200.00,
+                    "creditAmount": 200.00,
+                    "debitAmount": 200.00,
+                    "endOrientStr": "借",
+                    "endQuantity": 200.00,
+                    "endLocamount": 200.00,
+                    "endAmount": 200.00
+                }
+            }, {
+                "data": {
+                    "glorgName": "稻香村-基准账簿",
+                    "glorgCode": "DXC-0001",
+                    "orgName": "稻香村",
+                    "orgCode": "DXC-0001",
+                    "acccode": "1001",
+                    "accname": "银行存款",
+                    "pk_accsubj": "asdf",
+                    "accOrientStr": "借",
+                    "accyear": "2015",
+                    "accperiod": "12",
+                    "explanation": "期初余额",
+                    "debitQuantity": 200.00,
+                    "creditQuantity": 200.00,
+                    "localDebitAmount": 200.00,
+                    "localCreditAmount": 200.00,
+                    "creditAmount": 200.00,
+                    "debitAmount": 200.00,
+                    "endOrientStr": "借",
+                    "endQuantity": 200.00,
+                    "endLocamount": 200.00,
+                    "endAmount": 200.00
+                }
+            }, {
+
+                "data": {
+                    "glorgName": "稻香村-基准账簿",
+                    "glorgCode": "DXC-0001",
+                    "orgName": "稻香村",
+                    "orgCode": "DXC-0001",
+                    "acccode": "1001",
+                    "accname": "银行存款",
+                    "pk_accsubj": "asdf",
+                    "accOrientStr": "借",
+                    "accyear": "2015",
+                    "accperiod": "12",
+                    "explanation": "期初余额",
+                    "debitQuantity": 200.00,
+                    "creditQuantity": 200.00,
+                    "localDebitAmount": 200.00,
+                    "localCreditAmount": 200.00,
+                    "creditAmount": 200.00,
+                    "debitAmount": 200.00,
+                    "endOrientStr": "借",
+                    "endQuantity": 200.00,
+                    "endLocamount": 200.00,
+                    "endAmount": 200.00
+                }
+            }, {
+
+                "data": {
+                    "glorgName": "稻香村-基准账簿",
+                    "glorgCode": "DXC-0001",
+                    "orgName": "稻香村",
+                    "orgCode": "DXC-0001",
+                    "acccode": "1001",
+                    "accname": "银行存款",
+                    "pk_accsubj": "asdf",
+                    "accOrientStr": "借",
+                    "accyear": "2015",
+                    "accperiod": "12",
+                    "explanation": "期初余额",
+                    "debitQuantity": 200.00,
+                    "creditQuantity": 200.00,
+                    "localDebitAmount": 200.00,
+                    "localCreditAmount": 200.00,
+                    "creditAmount": 200.00,
+                    "debitAmount": 200.00,
+                    "endOrientStr": "借",
+                    "endQuantity": 200.00,
+                    "endLocamount": 200.00,
+                    "endAmount": 200.00
+                }
+            }, {
+
+                "data": {
+                    "glorgName": "稻香村-基准账簿",
+                    "glorgCode": "DXC-0001",
+                    "orgName": "稻香村",
+                    "orgCode": "DXC-0001",
+                    "acccode": "1001",
+                    "accname": "银行存款",
+                    "pk_accsubj": "asdf",
+                    "accOrientStr": "借",
+                    "accyear": "2015",
+                    "accperiod": "12",
+                    "explanation": "期初余额",
+                    "debitQuantity": 200.00,
+                    "creditQuantity": 200.00,
+                    "localDebitAmount": 200.00,
+                    "localCreditAmount": 200.00,
+                    "creditAmount": 200.00,
+                    "debitAmount": 200.00,
+                    "endOrientStr": "借",
+                    "endQuantity": 200.00,
+                    "endLocamount": 200.00,
+                    "endAmount": 200.00
+                }
+
+            }, {
+
+                "data": {
+                    "glorgName": "稻香村-基准账簿",
+                    "glorgCode": "DXC-0001",
+                    "orgName": "稻香村",
+                    "orgCode": "DXC-0001",
+                    "acccode": "1001",
+                    "accname": "银行存款",
+                    "pk_accsubj": "asdf",
+                    "accOrientStr": "借",
+                    "accyear": "2015",
+                    "accperiod": "12",
+                    "explanation": "期初余额",
+                    "debitQuantity": 200.00,
+                    "creditQuantity": 200.00,
+                    "localDebitAmount": 200.00,
+                    "localCreditAmount": 200.00,
+                    "creditAmount": 200.00,
+                    "debitAmount": 200.00,
+                    "endOrientStr": "借",
+                    "endQuantity": 200.00,
+                    "endLocamount": 200.00,
+                    "endAmount": 200.00
+                }
+            }],
+            "meta": null
+        }
+    },
+    "custom": ""
+}
